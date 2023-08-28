@@ -14,7 +14,7 @@ class convert{
         System.out.println("------------------------------------------------------------------------- ");
         switch(ch){
             case 1:
-                System.out.println("Enter the Temperature in Fahrenheit:");
+                System.out.println("Enter the Temperature  In Fahrenheit:");
                 float Fahrenheit =sc.nextFloat();  
                 float Celsius  = ((Fahrenheit-32)*5)/9;  
                 System.out.println("Temperature in celsius is: "+Celsius);  
