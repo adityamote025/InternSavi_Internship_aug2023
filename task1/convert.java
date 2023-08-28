@@ -27,7 +27,7 @@ class convert{
                 break;
             case 3:
             System.exit(0);
-            default:System.out.println("Please enter correct choice");
+            default:System.out.println("Please Enter Correct Choice");
 
         }
         
